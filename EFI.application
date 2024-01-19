@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/TECO-ICT/EFI/main/published/EFI.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/TECO-ICT/EFI-Readonly/main/EFI.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RlDX+kYpfst4SAwNT2R4VJXkWl5UDP3JfZ4HAyiCrSA=</dsig:DigestValue>
+        <dsig:DigestValue>WO/5dB9slywpESxcnIGfgAKDYQKYZBWPlt6wlM2pPrU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

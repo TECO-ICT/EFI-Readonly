@@ -153,13 +153,13 @@
       <dsig:DigestValue>YKTOAgFQoLpehw84FHuN3iBoxR7JGu9Ms6RSfLlHIME=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="EFI.dll" size="2745856">
+  <file name="EFI.dll" size="2745344">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>2r2q/jOsTnL7tXblc7G48hAHKlzX4sRF/tg7YIkG/s8=</dsig:DigestValue>
+      <dsig:DigestValue>5t5iltKkLY9U5nEVq3xm7ZoPoeMmRxOfFfH6oxl7EE8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="EFI.dll.config" size="1552">
@@ -177,7 +177,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Li3Sb+HnyrfO8khrQldBf8UZYvZSm28pQdeduixXY6U=</dsig:DigestValue>
+      <dsig:DigestValue>nyGrkSFZFpAzB98md7fRd77rhgIHcUeCsJo/5DbbTdA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="EFI.runtimeconfig.json" size="372">
